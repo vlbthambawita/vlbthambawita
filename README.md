@@ -1,4 +1,4 @@
-### Hi, I am [Vajira Thambawita](vajira.info), a senior research scientist at SimulaMet, Oslo, Norway 👋
+### Hi, I am [Vajira Thambawita]([vajira.info](https://vajira.info/)), a senior research scientist at SimulaMet, Oslo, Norway 👋
 ![Vajira's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlbthambawita&show_icons=true&theme=dark)
 ---
 ![Vajira's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vlbthambawita&layout=compact&theme=dark)
